@@ -1,0 +1,20 @@
+2024-12-16 15:18:01,327 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-16 15:18:01,327 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:18:04,194 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-16 15:18:04,205 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-16 15:18:07,343 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:19:25,736 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-16 15:19:25,736 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:19:30,021 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-16 15:19:30,029 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-16 15:19:33,170 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:25:13,017 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-16 15:25:13,017 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-16 15:25:16,810 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-16 15:25:16,813 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-16 15:25:20,155 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
+2024-12-16 15:33:59,367 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-16 15:33:59,368 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
